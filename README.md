@@ -6,6 +6,8 @@ description: >-
 
 # Birthday Bot Docs
 
+#### [Invite Link](https://discord.com/oauth2/authorize?client_id=797279656595947531&permissions=346176&scope=bot)
+
 ## Why does the bot not announce birthdays?
 
 **1st thing to check, have you set the birthday channel.**  
