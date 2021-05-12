@@ -20,7 +20,8 @@ How to Read These Docs
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">b!help [command]</td>
+      <td style="text-align:left"><code>b!help [command]</code>
+      </td>
       <td style="text-align:left">
         <p></p>
         <ul>
@@ -31,7 +32,8 @@ How to Read These Docs
       <td style="text-align:left">Gets a link to these docs or help on a specific command.</td>
     </tr>
     <tr>
-      <td style="text-align:left">b!support</td>
+      <td style="text-align:left"><code>b!support</code>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>b!support</li>
@@ -40,7 +42,8 @@ How to Read These Docs
       <td style="text-align:left">Sends a link to join the support server.</td>
     </tr>
     <tr>
-      <td style="text-align:left">b!vote</td>
+      <td style="text-align:left"><code>b!vote</code>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>b!vote</li>
@@ -52,7 +55,8 @@ How to Read These Docs
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">b!setbday &lt;birthday&gt;</td>
+      <td style="text-align:left"><code>b!setbday &lt;birthday&gt;</code>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>b!setbday 03/05</li>
@@ -61,7 +65,8 @@ How to Read These Docs
       <td style="text-align:left">Sets your birthday. Use MM/DD format.</td>
     </tr>
     <tr>
-      <td style="text-align:left">b!getbday [user]</td>
+      <td style="text-align:left"><code>b!getbday [user]</code>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>b!getbday @Niloc</li>
@@ -71,7 +76,8 @@ How to Read These Docs
       <td style="text-align:left">Checks what another users birthday is set to. Use mention or ID.</td>
     </tr>
     <tr>
-      <td style="text-align:left">b!settings</td>
+      <td style="text-align:left"><code>b!settings</code>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>b!settings</li>
@@ -80,7 +86,8 @@ How to Read These Docs
       <td style="text-align:left">Checks what the settings are for your server.</td>
     </tr>
     <tr>
-      <td style="text-align:left">b!test</td>
+      <td style="text-align:left"><code>b!test</code>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>b!test</li>
@@ -89,7 +96,8 @@ How to Read These Docs
       <td style="text-align:left">Sends a test message to your birthday channel using your birthday message.</td>
     </tr>
     <tr>
-      <td style="text-align:left">b!message &lt;message&gt;</td>
+      <td style="text-align:left"><code>b!message &lt;message&gt;</code>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>b!message</li>
@@ -100,7 +108,8 @@ How to Read These Docs
         Put no arguments to reset the message</td>
     </tr>
     <tr>
-      <td style="text-align:left">b!channel &lt;#channel&gt;</td>
+      <td style="text-align:left"><code>b!channel &lt;#channel&gt;</code>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>b!channel #birthdays</li>
