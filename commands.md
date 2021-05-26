@@ -105,7 +105,7 @@ How to Read These Docs
         </ul>
       </td>
       <td style="text-align:left">Adds or removes birthday messages. Use <code>{user}</code> to mention the
-        user.</td>
+        user. Use no arguments to check what your birthday messages are.</td>
     </tr>
     <tr>
       <td style="text-align:left"><code>b!channel &lt;#channel&gt;</code>
@@ -116,6 +116,28 @@ How to Read These Docs
         </ul>
       </td>
       <td style="text-align:left">Sets the birthday channel that birthdays will be announced to.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>b!premium</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>b!premium</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Checks if your server is premium for the month. You can get premium for
+        [voting](<a href="https://top.gg/bot/797279656595947531/vote">https://top.gg/bot/797279656595947531/vote</a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>b!embed</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>b!embed</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Toggles birthday messages being in an embed or not. <b>Premium</b>
+      </td>
     </tr>
   </tbody>
 </table>
