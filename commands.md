@@ -96,12 +96,12 @@ How to Read These Docs
       <td style="text-align:left">Sends a test message to your birthday channel using your birthday message.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!message &lt;message&gt;</code>
+      <td style="text-align:left"><code>b!message &lt;add|remove&gt; &lt;message&gt;</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!message</li>
-          <li>b!message Happy Bday {user}!</li>
+          <li>b!message remove HBD {user}</li>
+          <li>b!message add Happy Bday {user}!</li>
         </ul>
       </td>
       <td style="text-align:left">Sets the birthday message. Use <code>{user}</code> to mention the user.
