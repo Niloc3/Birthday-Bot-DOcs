@@ -104,8 +104,8 @@ How to Read These Docs
           <li>b!message add Happy Bday {user}!</li>
         </ul>
       </td>
-      <td style="text-align:left">Sets the birthday message. Use <code>{user}</code> to mention the user.
-        Put no arguments to reset the message</td>
+      <td style="text-align:left">Adds or removes birthday messages. Use <code>{user}</code> to mention the
+        user.</td>
     </tr>
     <tr>
       <td style="text-align:left"><code>b!channel &lt;#channel&gt;</code>
