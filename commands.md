@@ -8,7 +8,7 @@ How to Read These Docs
 * Anything in curly brackets `{}` is an variable. **Keep the { }**
 {% endhint %}
 
-## All Bot Commands
+## All Bot Commands 
 
 <table>
   <thead>
@@ -126,7 +126,8 @@ How to Read These Docs
         </ul>
       </td>
       <td style="text-align:left">Checks if your server is premium for the month. You can get premium for
-        [voting](<a href="https://top.gg/bot/797279656595947531/vote">https://top.gg/bot/797279656595947531/vote</a>)</td>
+        voting <a href="https://top.gg/bot/797279656595947531/vote">https://top.gg/bot/797279656595947531/vote</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>b!embed</code>
