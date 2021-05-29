@@ -105,7 +105,9 @@ How to Read These Docs
         </ul>
       </td>
       <td style="text-align:left">Adds or removes birthday messages. Use <code>{user}</code> to mention the
-        user. Use no arguments to check what your birthday messages are.</td>
+        user. Use no arguments to check what your birthday messages are. More then
+        one message is <b>premium</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>b!channel &lt;#channel&gt;</code>
