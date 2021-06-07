@@ -1,3 +1,10 @@
 {
-  "plugins": ["talkus"]
+    "plugins": [
+        "hide-element"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".navButton-94f2579c--navButtonClickable-161b88ca"]
+        }
+    }
 }
