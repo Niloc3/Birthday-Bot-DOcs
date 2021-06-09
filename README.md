@@ -11,7 +11,7 @@ description: >-
 ## Why does the bot not announce birthdays?
 
 **1st thing to check, have you set the birthday channel.**  
-If not the bot has no idea where to wish you a happy birthday and will not send it. Use `b!setchannel <#channel>` to set that channel.
+If not the bot has no idea where to wish you a happy birthday and will not send it. Use `b!channel <#channel>` to set that channel.
 
 **2nd, has that user set their birthday?**  
 Have the user run `b!getbday` and if the bot responds with "You have not set your birthday yet." Look at [Commands](commands.md#setting-your-birthday) to do so.
