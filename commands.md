@@ -86,16 +86,6 @@ How to Read These Docs
       <td style="text-align:left">Checks what the settings are for your server.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!test</code>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>b!test</li>
-        </ul>
-      </td>
-      <td style="text-align:left">Sends a test message to your birthday channel using your birthday message.</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><code>b!message &lt;add|remove&gt; &lt;message&gt;</code>
       </td>
       <td style="text-align:left">
