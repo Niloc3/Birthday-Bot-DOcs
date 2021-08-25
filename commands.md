@@ -20,33 +20,33 @@ How to Read These Docs
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><code>b!help [command]</code>
+      <td style="text-align:left"><code>/help [command]</code>
       </td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>b!help setbday</li>
-          <li>b!help</li>
+          <li>/help setbday</li>
+          <li>/help</li>
         </ul>
       </td>
       <td style="text-align:left">Gets a link to these docs or help on a specific command.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!support</code>
+      <td style="text-align:left"><code>/support</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!support</li>
+          <li>/support</li>
         </ul>
       </td>
       <td style="text-align:left">Sends a link to join the support server.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!vote</code>
+      <td style="text-align:left"><code>/vote</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!vote</li>
+          <li>/vote</li>
         </ul>
       </td>
       <td style="text-align:left">
@@ -55,43 +55,44 @@ How to Read These Docs
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!setbday &lt;birthday&gt;</code>
+      <td style="text-align:left"><code>/setbday &lt;birthday&gt;</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!setbday 03/05</li>
+          <li>/setbday 03/05</li>
         </ul>
       </td>
       <td style="text-align:left">Sets your birthday. Use MM/DD format.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!getbday [user]</code>
+      <td style="text-align:left"><code>/getbday [user]</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!getbday @Niloc</li>
-          <li>b!getbday 626916199783071750</li>
+          <li>/getbday @Niloc</li>
+          <li>/getbday 626916199783071750</li>
         </ul>
       </td>
       <td style="text-align:left">Checks what another users birthday is set to. Use mention or ID.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!settings</code>
+      <td style="text-align:left"><code>/settings</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!settings</li>
+          <li>/settings</li>
         </ul>
       </td>
       <td style="text-align:left">Checks what the settings are for your server.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!message &lt;add|remove&gt; &lt;message&gt;</code>
+      <td style="text-align:left"><code>/message &lt;add|remove|clear&gt; &lt;message&gt;</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!message remove HBD {user}</li>
-          <li>b!message add Happy Bday {user}!</li>
+          <li>/message remove HBD {user}</li>
+          <li>/message add Happy Bday {user}!</li>
+          <li>/message clear</li>
         </ul>
       </td>
       <td style="text-align:left">Adds or removes birthday messages. Use <code>{user}</code> to mention the
@@ -100,36 +101,46 @@ How to Read These Docs
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!channel &lt;#channel&gt;</code>
+      <td style="text-align:left"><code>/channel &lt;#channel&gt;</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!channel #birthdays</li>
+          <li>/channel #birthdays</li>
         </ul>
       </td>
       <td style="text-align:left">Sets the birthday channel that birthdays will be announced to.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!premium</code>
+      <td style="text-align:left"><code>/premium</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!premium</li>
+          <li>/premium</li>
         </ul>
       </td>
-      <td style="text-align:left">Checks if your server is premium for the month. You can get premium for
-        voting <a href="https://top.gg/bot/797279656595947531/vote">https://top.gg/bot/797279656595947531/vote</a>
+      <td style="text-align:left">Checks if your server is premium for the month. <a href="https://patreon.com/bdaybot">https://patreon.com/bdaybot</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>b!embed</code>
+      <td style="text-align:left"><code>/embed</code>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>b!embed</li>
+          <li>/embed</li>
         </ul>
       </td>
       <td style="text-align:left">Toggles birthday messages being in an embed or not. <b>Premium</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>/premiumperks</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>/premiumperks</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Shows you the perks you get for being cool, <a href="https://patreon.com/bdaybot">https://patreon.com/bdaybot</a>
       </td>
     </tr>
   </tbody>
