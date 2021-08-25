@@ -143,6 +143,26 @@ How to Read These Docs
       <td style="text-align:left">Shows you the perks you get for being cool, <a href="https://patreon.com/bdaybot">https://patreon.com/bdaybot</a>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>/addpremium</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>/addpremium</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Marks a server as premium if you have it</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>/removepremium</code>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>/removepremium</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Unmarks a server as premium, giving you another server to mark.</td>
+    </tr>
   </tbody>
 </table>
 
