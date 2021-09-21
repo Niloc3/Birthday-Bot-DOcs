@@ -1,12 +1,10 @@
 # Commands
 
-{% hint style="info" %}
-How to Read These Docs
 
+How to Read These Docs
 * Anything in carrots `<>` is a mandatory argument. **Do not include the &lt; &gt;**
 * Anything in brackets `[]` is an optional argument.  **Do not include the \[ \]**
 * Anything in curly brackets `{}` is an variable. **Keep the { }**
-{% endhint %}
 
 ## All Bot Commands 
 
